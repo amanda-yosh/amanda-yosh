@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on my studies.
 
-- 🌱 Learning **HTML, CSS, JavaScript, Cloud on AWS, IoT related things**.
+- 🌱 Learning about **database**.
 
-- 🤔 I’m looking for help with **IoT**.
+- 🤔 I’m working on a portfolio of my projects.
+
+- 🚀 **HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **amandamca.aa@gmail.com**
 
