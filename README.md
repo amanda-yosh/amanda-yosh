@@ -13,6 +13,11 @@
 [![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-yosh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-yosh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="center">My Top Repositories</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanda-yosh&repo=overLoop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="center">Technologies I'm learning 🌱 or improving 🚀</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
