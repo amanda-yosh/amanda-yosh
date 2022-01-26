@@ -16,6 +16,7 @@
 <h3 align="center">My Top Repositories</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanda-yosh&repo=overLoop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanda-yosh&repo=the-shire&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">Technologies I'm learning 🌱 or improving 🚀</h3>
