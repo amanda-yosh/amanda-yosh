@@ -1,30 +1,26 @@
-<h1 align="center">Amanda @here</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Amanda Maria @here</h1>
+<h3 align="center">Engenheira de Software | Software Engineer</h3>
 
-- ⚡ Brazilian girl!
-- 🔭 I’m currently working on OLX Brasil and studing to become an Engineer 👯
-- 📫 How to reach me: **amandamca.aa@gmail.com**
+> Olá, meu nome é Amanda Maria mas todos me chamam de Amandinha. Sou brasileira com muito orgulho e atualmente trabalho como engenheira de software na OLX Brasil.
+Trabalho a mais de dois anos como front end e venho buscando abranger meus conhecimentos na área de tecnologia.
+Coisas que gosto de fazer são sair e viajar com amigos 👯. Sempre voltamos cheios de loucas e engraçadas histórias para contar. Passar tempo com minha família e animais de estimação (porque eles são os mais fofos). Longas caminhadas no mato e ir a praias e cachoeiras.
 
-<h3 align="left">My GitHub stats and top languages</h3>
-  
+> Hello, my name is Amanda Maria but everyone calls me Amandinha. I am proudly Brazilian and currently work as a software engineer at OLX Brasil.
+I have been working as a front end for more than two years and have been trying to expand my knowledge in the technology area.
+Things I like to do are go out and travel with friends 👯. We always come back full of funny and crazy stories to tell. Spending time with my family and pets (because they are the cuttest). Long walks in the bush and going to beaches and waterfalls.
+
+- 📫 Você pode entrar em contato comigo através do meu email: **amandamca.aa@gmail.com** 💬
+- 📫 You can reach me throw my email: **amandamca.aa@gmail.com** 💬
+
+<h3 align="left">Meus status | My stats</h3>
+
 [![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-yosh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Linguagens que tenho experiência | Languages I'm improving 🚀</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-yosh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">My Top Repositories</h3>
-
+<!--<h3 align="left">My Top Repositories</h3>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanda-yosh&repo=overLoop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanda-yosh&repo=the-shire&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3 align="left">Technologies I'm improving 🚀</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<h3 align="left">Connect with me 💬</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amanda-maria/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn da Amanda" /></a>
-<a href="https://www.instagram.com/amanda_yosh/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Amanda" /></a>
-<a href="https://www.kaggle.com/amandamariaalmeida" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle da Amanda" /></a>
-<a href="https://www.facebook.com/amanda.costadealmeida1" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook da Amanda" /></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanda-yosh&repo=the-shire&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
